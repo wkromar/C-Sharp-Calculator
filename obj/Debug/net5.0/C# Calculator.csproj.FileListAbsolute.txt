@@ -1,0 +1,16 @@
+C:\Users\Woodrow Kromar\Documents\Learning c#\C# Calculator\bin\Debug\net5.0\C# Calculator.exe
+C:\Users\Woodrow Kromar\Documents\Learning c#\C# Calculator\bin\Debug\net5.0\C# Calculator.deps.json
+C:\Users\Woodrow Kromar\Documents\Learning c#\C# Calculator\bin\Debug\net5.0\C# Calculator.runtimeconfig.json
+C:\Users\Woodrow Kromar\Documents\Learning c#\C# Calculator\bin\Debug\net5.0\C# Calculator.runtimeconfig.dev.json
+C:\Users\Woodrow Kromar\Documents\Learning c#\C# Calculator\bin\Debug\net5.0\C# Calculator.dll
+C:\Users\Woodrow Kromar\Documents\Learning c#\C# Calculator\bin\Debug\net5.0\ref\C# Calculator.dll
+C:\Users\Woodrow Kromar\Documents\Learning c#\C# Calculator\bin\Debug\net5.0\C# Calculator.pdb
+C:\Users\Woodrow Kromar\Documents\Learning c#\C# Calculator\obj\Debug\net5.0\C# Calculator.csprojAssemblyReference.cache
+C:\Users\Woodrow Kromar\Documents\Learning c#\C# Calculator\obj\Debug\net5.0\C# Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Woodrow Kromar\Documents\Learning c#\C# Calculator\obj\Debug\net5.0\C# Calculator.AssemblyInfoInputs.cache
+C:\Users\Woodrow Kromar\Documents\Learning c#\C# Calculator\obj\Debug\net5.0\C# Calculator.AssemblyInfo.cs
+C:\Users\Woodrow Kromar\Documents\Learning c#\C# Calculator\obj\Debug\net5.0\C# Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Woodrow Kromar\Documents\Learning c#\C# Calculator\obj\Debug\net5.0\C# Calculator.dll
+C:\Users\Woodrow Kromar\Documents\Learning c#\C# Calculator\obj\Debug\net5.0\ref\C# Calculator.dll
+C:\Users\Woodrow Kromar\Documents\Learning c#\C# Calculator\obj\Debug\net5.0\C# Calculator.pdb
+C:\Users\Woodrow Kromar\Documents\Learning c#\C# Calculator\obj\Debug\net5.0\C# Calculator.genruntimeconfig.cache
